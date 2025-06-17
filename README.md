@@ -35,19 +35,6 @@ EzyKart is a responsive and user-friendly e-commerce website built using **React
 
 ---
 
-## 📂 Folder Structure
-EzyKart/
-├── public/
-├── src/
-│ ├── assets/ # Images & static files
-│ ├── components/ # Reusable UI components (e.g., ProductCard, Header)
-│ ├── pages/ # Page views (e.g., Home, ProductDetails)
-│ ├── App.jsx # Main app component
-│ ├── main.jsx # Entry point
-│ └── styles/ # CSS files
-├── .gitignore
-├── package.json
-└── README.md
 
 #1. Clone the repository
 ```bash
